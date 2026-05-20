@@ -13,7 +13,7 @@ const options = {
 
         servers: [
             {
-                url: "https://expense-tracker-api-k7z5.onrender.com",
+                url: "https://expense-tracker-eaxr.onrender.com",
             },
         ],
 
