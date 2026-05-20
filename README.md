@@ -59,13 +59,7 @@ src/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/kalpanaCharpe/expense-tracker-api.git
-```
-
-### Move Into Project Folder
-
-```bash
-cd expense-tracker-api
+git clone https://github.com/Priya-verma-1/Expense-tracker.git
 ```
 
 ### Install Dependencies
@@ -111,7 +105,7 @@ npm start
 ## Base URL
 
 ```bash
-https://expense-tracker-api-k7z5.onrender.com
+https://expense-tracker-eaxr.onrender.com
 ```
 
 Replace with your deployed Render backend URL.
@@ -123,7 +117,7 @@ Replace with your deployed Render backend URL.
 Swagger Documentation:
 
 ```bash
-https://expense-tracker-api-k7z5.onrender.com/docs
+https://expense-tracker-eaxr.onrender.com/docs/
 ```
 
 ---
